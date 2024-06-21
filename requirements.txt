@@ -1,0 +1,4 @@
+botbuilder-core
+botbuilder-ai
+aiohttp
+python-dotenv
